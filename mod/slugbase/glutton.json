@@ -1,0 +1,12 @@
+{
+    "id": "duke.glutton",
+    "name": "The Glutton",
+    "description": "Large of body, with an affinity for carrying more than can be eaten. You have mastered<LINE>methods of storing rations, keeping your party (and yourself) well-fed on your journey.",
+    "features": {
+        "color": "4D879A",
+        "start_room": "AD_S01",
+        "select_menu_scene": "Slugcat_Glutton",
+        "food_min": 7,
+        "food_max": 11
+    }
+}

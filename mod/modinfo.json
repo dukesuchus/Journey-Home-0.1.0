@@ -1,0 +1,10 @@
+﻿{
+	"id": "duke.journeyhome.char",
+	"name": "Journey Home Characters",
+	"version": "0.0.1",
+	"authors": "dukesuchus",
+	"description": "The selection of slugcats you can play as in the mulitplayer mod, Journey Home.",
+	"requirements": [ "slime-cubed.slugbase", "duke.journeyhome" ],
+	"requirements_names": [ "SlugBase", "Journey Home" ],
+	"tags": [ "Custom Slugcat" ]
+}

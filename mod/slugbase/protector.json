@@ -1,0 +1,12 @@
+{
+    "id": "duke.protector",
+    "name": "The Protector",
+    "description": "Small in stature, but vicious in temperament. When push comes to shove, your claws<LINE>can save you and your companions from the jaws of death at no minimal expense.",
+    "features": {
+        "color": "BD3687",
+        "start_room": "AD_S01",
+        "select_menu_scene": "Slugcat_Protector",
+        "food_min": 5,
+        "food_max": 6
+    }
+}

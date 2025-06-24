@@ -1,0 +1,12 @@
+{
+    "id": "duke.capacitor",
+    "name": "The Capacitor",
+    "description": "Potential energy stored in a single lifeform. In a pinch, you can<LINE>exert yourself to dash out of harm's way, often with one of your friends on your back.",
+    "features": {
+        "color": "BCE0F6",
+        "start_room": "AD_S01",
+        "select_menu_scene": "Slugcat_Capacitor",
+        "food_min": 4,
+        "food_max": 6
+    }
+}

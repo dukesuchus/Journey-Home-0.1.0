@@ -1,0 +1,12 @@
+{
+    "id": "duke.firebrand",
+    "name": "The Firebrand",
+    "description": "Burned from making a spark to light a fire, having lived to tell the tale.<LINE>Use that spark to provide sustenance where there was once none, or as a form of self defense.",
+    "features": {
+        "color": "EB9D1A",
+        "start_room": "AD_S01",
+        "select_menu_scene": "Slugcat_Firebrand",
+        "food_min": 6,
+        "food_max": 9
+    }
+}
